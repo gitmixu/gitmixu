@@ -3,7 +3,7 @@
 I study software development.
 
 ` FullStack ` ` UI / UX `
-` JavaScript ` ` Java ` ` Python ` ` Node.js ` ` Vue / React ` ` SQL / MongoDB ` `redux` `C#` `ASP.NET`
+` JavaScript ` ` Java ` ` Python ` ` Node.js ` ` Vue / React ` ` SQL / MongoDB ` `redux` `C#` `ASP.NET` `React Query`
 
 __(ASP.NET project is soon ready)__
 
