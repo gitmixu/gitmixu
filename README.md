@@ -1,6 +1,6 @@
 ### *Hello*
 
-I study software development.
+I study software and web development.
 
 ` FullStack ` ` UI / UX `
 ` JavaScript ` ` Java ` ` Python ` ` Node.js ` ` Vue / React ` ` SQL / MongoDB ` `redux` 
