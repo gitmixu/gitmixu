@@ -1,4 +1,4 @@
-### *im am MIXU*
+### *i am MIXU*
 ## freelance web / software developer
 
 ` FullStack ` ` UI / UX `
