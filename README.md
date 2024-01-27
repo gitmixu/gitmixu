@@ -16,4 +16,12 @@ i am mixu
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="javascript" width="40" height="40"/> </a>
 
+<a href="https://www.ux-ui.net" target="_blank" rel="noreferrer"> 
+<img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" alt="javascript" width="40" height="40"/> </a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="javascript" width="40" height="40"/> </a>
+
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="javascript" width="40" height="40"/> </a>
 </p>
