@@ -1,4 +1,3 @@
-i am mixu
 ## freelance web and software developer
 
 <p>
