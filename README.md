@@ -65,4 +65,7 @@
 
 <a href="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" target="_blank" rel="noreferrer"> 
 <img src="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" alt="AdobeAi" height="40"/> </a>
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="AdobeAi" height="40"/> </a>
 </p>
