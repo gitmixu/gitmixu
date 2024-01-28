@@ -24,8 +24,8 @@ i am mixu
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React" height="40"/> </a>
 
-<a href="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" target="_blank" rel="noreferrer"> 
-<img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="40"/> </a>
+<a href="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" target="_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="REST" height="40"/> </a>
 </p>
 
 <p>
