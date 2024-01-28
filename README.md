@@ -30,7 +30,8 @@ i am mixu
 <a href="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" alt="graphql" height="40"/> </a>
 
-
+<a href="https://cdn.worldvectorlogo.com/logos/redux.svg" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="40"/> </a>
 </p>
 
 <p>
@@ -42,9 +43,6 @@ i am mixu
 
 <a href="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" target="_blank" rel="noreferrer"> 
 <img src="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" alt="mySQL" height="40"/> </a>
-
-<a href="https://cdn.worldvectorlogo.com/logos/redux.svg" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="40"/> </a>
 </p>
 
 <p>
