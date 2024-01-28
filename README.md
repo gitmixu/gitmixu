@@ -27,14 +27,24 @@ i am mixu
 <a href="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="REST" height="40"/> </a>
 
-<a href="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" target="_blank" rel="noreferrer"> 
-<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDb" height="40"/> </a>
+<a href="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" target="_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" alt="graphql" height="40"/> </a>
+
+
+</p>
+
+<p>
+<a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDb" height="40"/> </a>
 
 <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" target="_blank" rel="noreferrer"> 
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" height="40"/> </a>
 
 <a href="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" target="_blank" rel="noreferrer"> 
 <img src="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" alt="mySQL" height="40"/> </a>
+
+<a href="https://cdn.worldvectorlogo.com/logos/redux.svg" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="40"/> </a>
 </p>
 
 <p>
