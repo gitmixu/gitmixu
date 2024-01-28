@@ -1,5 +1,5 @@
 i am mixu
-## $\textcolor{yellow}{freelance\ web\ / \ software\ developer }$
+## freelance web and software developer
 
 <h3>contact</h3>
 
