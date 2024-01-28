@@ -26,6 +26,15 @@ i am mixu
 
 <a href="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="REST" height="40"/> </a>
+
+<a href="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" target="_blank" rel="noreferrer"> 
+<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDb" height="40"/> </a>
+
+<a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" target="_blank" rel="noreferrer"> 
+<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" height="40"/> </a>
+
+<a href="https://pngimg.com/d/mysql_PNG9.png" target="_blank" rel="noreferrer"> 
+<img src="https://pngimg.com/d/mysql_PNG9.png" alt="mySQL" height="40"/> </a>
 </p>
 
 <p>
