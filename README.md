@@ -24,6 +24,9 @@ i am mixu
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React" height="40"/> </a>
 
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="vite" height="40"/> </a>
+
 <a href="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="REST" height="40"/> </a>
 
@@ -32,6 +35,12 @@ i am mixu
 
 <a href="https://cdn.worldvectorlogo.com/logos/redux.svg" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="40"/> </a>
+
+<a href="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" target="_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"alt="reactQuery" height="40"/> </a>
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt=".net" height="40"/> </a>
 </p>
 
 <p>
