@@ -1,5 +1,5 @@
 i am mixu
-<h1 style={color:'#D2AFFF'}>freelance web / software developer</h1>
+## $\textcolor{yellow}{freelance\ web\ / \ software\ developer }$
 
 <h3>contact</h3>
 
