@@ -4,8 +4,8 @@ i am mixu
 <h3>contact</h3>
 <p>
 <a href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" target="_blank" rel="noreferrer"> 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="discord" width="40" height="40"/> </a>
-<h3>mixu.s</h3>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="discord" height="40"/> </a>
+<p>mixu.s</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
