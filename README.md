@@ -33,8 +33,8 @@ i am mixu
 <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" target="_blank" rel="noreferrer"> 
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" height="40"/> </a>
 
-<a href="https://pngimg.com/d/mysql_PNG10.png" target="_blank" rel="noreferrer"> 
-<img src="https://pngimg.com/d/mysql_PNG10.png" alt="mySQL" height="40"/> </a>
+<a href="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" target="_blank" rel="noreferrer"> 
+<img src="https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png" alt="mySQL" height="40"/> </a>
 </p>
 
 <p>
