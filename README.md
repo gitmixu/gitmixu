@@ -28,8 +28,8 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="vite" height="40"/> </a>
 
-<a href="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" target="_blank" rel="noreferrer"> 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="REST" height="40"/> </a>
+<a href="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" target="_blank" rel="noreferrer"> 
+<img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="REST" height="40"/> </a>
 
 <a href="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:400/1*nP2C50GK4_-ly_R_mq3juQ.png" alt="graphql" height="40"/> </a>
