@@ -1,9 +1,7 @@
 i am mixu
-## freelance web / software developer
+<h1 style={color:'#D2AFFF'}>freelance web / software developer</h1>
 
-` FullStack ` ` UI / UX `
-` JavaScript ` ` Java ` ` Python ` ` Node.js ` ` Vue / React ` ` SQL / MongoDB ` `redux` 
-`C#` `ASP.NET` `React Query` ` REST / GraphQL `
+<h3>contact</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
