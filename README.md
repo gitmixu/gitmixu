@@ -26,9 +26,6 @@ i am mixu
 
 <a href="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" target="_blank" rel="noreferrer"> 
 <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="40"/> </a>
-
-<a href="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" target="_blank" rel="noreferrer"> 
-<img src="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" alt="AdobeAi" height="40"/> </a>
 </p>
 
 <p>
@@ -37,4 +34,7 @@ i am mixu
 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="40"/> </a>
+
+<a href="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" target="_blank" rel="noreferrer"> 
+<img src="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_ai_mnemonic?$png$&jpegSize=100&wid=160" alt="AdobeAi" height="40"/> </a>
 </p>
