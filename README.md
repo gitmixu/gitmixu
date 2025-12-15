@@ -1,4 +1,4 @@
-### Hi there 😁 I am [Mixu]
+### Hi there 😁 I am Mixu
 
 I'm a Mid/Senior software developer who loves turning coffee ☕ into code 💻.  
 
